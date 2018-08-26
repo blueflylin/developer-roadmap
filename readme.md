@@ -1,4 +1,4 @@
-![Web Developer Roadmap](./chinese-version/images/banner.png)
+![Web Developer Roadmap](./chinese/images/banner.png)
 
 > 2018 年成为 Web 开发人员的路线图
 
@@ -17,19 +17,19 @@
 
 ## 🚀 介紹
 
-![](./chinese-version/images/intro.png)
+![](./chinese/images/intro.png)
 
 ## 🎨 前端 Frontend 路线图
 
-![](./chinese-version/images/frontend.png)
+![](./chinese/images/frontend.png)
 
 ## 👽 后端 Back-end 路线图
 
-![](./chinese-version/images/backend.png)
+![](./chinese/images/backend.png)
 
 ## 👷 运维 DevOps 路线图
 
-![](./chinese-version/images/devops.png)
+![](./chinese/images/devops.png)
 
 ## 🚦 总结
 
