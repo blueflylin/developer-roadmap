@@ -1,54 +1,62 @@
-![Web Developer Roadmap](https://i.imgur.com/oxsayps.png)
+![Web Developer Roadmap](./chinese-version/images/banner.png)
 
-> Roadmap to becoming a web developer in 2018
+> 2018 年成为 Web 开发人员的路线图
 
-Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. I made these charts for an old professor of mine who wanted something to share with his college students to give them a perspective.
+在下面，你会看到一系列的图片，展示为了成为前端、后端或运维开发人员，你可以采取的路径和你会想采用的技术。我为我的一位老教授做了这些图，他想和大学生分享一些东西，给他们一个观点。
 
-<sub>Check out my [blog](http://kamranahmed.info) and say "hi" on [Twitter](https://twitter.com/kamranahmedse).</sub>
+<sub>看看作者的[博客](http://kamranahmed.info)，也欢迎大家来到作者的 [Twitter](https://twitter.com/kamranahmedse) 说声 "hi"。</sub><br>
+<sub>（译注：也欢迎来逛逛我们的社区网站(https://fequan.com/)，然后来 [Twitter](https://twitter.com/gzlinyi) 打个招呼 :P）</sub>
 
-## Disclaimer
-> The purpose of this roadmap is to give you an idea about the landscape and to guide you if you are confused about what to learn next and not to encourage you to pick what is hip and trendy. You should grow some understanding of why one tool would better suited for some cases than the other and remember hip and trendy never means best suited for the job
+## 🌏 简体中文翻译前言
+翻译中如果有疏漏、语句不通顺、用词不当及翻译错误的地方，欢迎大家反馈或开 issue 或 PR!
 
-## 🚀 Introduction
+当然，若原作有更新，也欢迎开 issue 告知，或 PR 帮助翻译，谢谢！
 
-![](https://i.imgur.com/OZUOUtI.png)
+## 免责声明
+> 这个路线图的目的是给你一个学习框架，如果在进一步学习中遇到困惑时可以指导你。而不是鼓励你学习很潮很流行的东西。你应该要更加了解，为什么某个工具会比其他的工具更适合用在一些情況，并记住潮和流行，从来就不代表它是最适合完成任务的工具。
 
-## 🎨 Frontend Roadmap
+## 🚀 介紹
 
-![](./images/frontend-v2.png)
+![](./chinese-version/images/intro.png)
 
-## 👽 Back-end Roadmap
+## 🎨 前端 Frontend 路线图
 
-![](./images/backend.png)
+![](./chinese-version/images/frontend.png)
 
-## 👷 DevOps Roadmap
+## 👽 后端 Back-end 路线图
 
-![](./images/devops.png)
+![](./chinese-version/images/backend.png)
 
-## 🚦 Wrap Up
+## 👷 运维 DevOps 路线图
 
-If you think any of the roadmaps can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to watch/star this repository to revisit.
+![](./chinese-version/images/devops.png)
+
+## 🚦 总结
+
+如果你认为路线图有可改进的地方，请更新并开个 PR 或是送出 issue。另外，我也会继续改进这个项目，所以你可能会想要 watch 或 star 这个项目以便再来观看。
 
 ## ☑ TODO
 
-- [X] Add Frontend Roadmap
-- [X] Add Backend Roadmap
-- [X] Add DevOps Roadmap
-- [ ] Add relevant resources for each
+- [X] 新增前端 Frontend 路线图
+- [X] 新增后端 Backend 路线图
+- [X] 新增运维 DevOps 路线图
+- [ ] 为每个项目新增相关的资源
 
-## 👬 Contribution
+## 👬 贡献
 
-The roadmaps are built using [Balsamiq](https://balsamiq.com/products/mockups/). Project file can be found at `/project` directory. To modify any of the roadmaps, open Balsamiq, click **Project > Import > Mockup JSON**, it will open the roadmap for you, update it, upload and update the images in readme and create a PR.		
+這些路线图是用 [Balsamiq](https://balsamiq.com/products/mockups/) 构建的。项目文件可以在 `/project` 目录中找到。要修改任何路线图，请打开 Balsamiq，选择 **Project > Import > Mockup JSON**，它就会帮你开启路线图，更新它，在 readme 中上传和更新这些图片，并开启一个 PR。
 
-- Open pull request with improvements
-- Discuss ideas in issues
-- Spread the word
-- Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
+- 改进并开启 Pull Request
+- 在 Issue 中讨论想法
+- 分享出去
+- 接受任何意见反馈 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
+- （关于中文翻译）接受任何意见反馈 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/littlegoodjack.svg?style=social&label=Follow%20@littlegoodjack)](https://twitter.com/littlegoodjack)
 
 ## Sponsored By
 
 - [Hackr.io - Find & Share the Best Online Programming Courses & Tutorials](https://hackr.io)
 
-## License
+## 授权条款
+
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
