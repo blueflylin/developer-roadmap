@@ -8,6 +8,8 @@
 <sub>（译注：也欢迎来逛逛我们的社区网站(https://fequan.com/)，然后来 [Twitter](https://twitter.com/gzlinyi) 打个招呼 :P）</sub>
 
 ## 🌏 简体中文翻译前言
+简体中文版本是基于台湾的小克[Twitter](https://twitter.com/littlegoodjack)的繁体中文上修改为简体中文。
+
 翻译中如果有疏漏、语句不通顺、用词不当及翻译错误的地方，欢迎大家反馈或开 issue 或 PR!
 
 当然，若原作有更新，也欢迎开 issue 告知，或 PR 帮助翻译，谢谢！
@@ -50,7 +52,7 @@
 - 在 Issue 中讨论想法
 - 分享出去
 - 接受任何意见反馈 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
-- （关于中文翻译）接受任何意见反馈 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/littlegoodjack.svg?style=social&label=Follow%20@littlegoodjack)](https://twitter.com/littlegoodjack)
+- （关于中文翻译）接受任何意见反馈 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/gzlinyi.svg?style=social&label=Follow%20@gzlinyi)](https://twitter.com/gzlinyi)
 
 ## Sponsored By
 

@@ -281,11 +281,11 @@
                     "ID": "15",
                     "typeID": "TextInput",
                     "zOrder": "15",
-                    "w": "132",
+                    "w": "141",
                     "measuredW": "132",
                     "measuredH": "32",
-                    "x": "595",
-                    "y": "368",
+                    "x": "593",
+                    "y": "367",
                     "properties": {
                         "align": "center",
                         "color": "16767334",
@@ -360,16 +360,16 @@
                     "ID": "18",
                     "typeID": "TextInput",
                     "zOrder": "18",
-                    "w": "112",
+                    "w": "128",
                     "measuredW": "80",
                     "measuredH": "32",
-                    "x": "866",
-                    "y": "361",
+                    "x": "873",
+                    "y": "360",
                     "properties": {
                         "align": "center",
                         "color": "16767334",
                         "size": "18",
-                        "text": "DevOps"
+                        "text": "运维 DevOps"
                     }
                 },
                 {
